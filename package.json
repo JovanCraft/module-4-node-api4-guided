@@ -1,6 +1,7 @@
 {
     "name": "node-api4-guided",
     "scripts": {
+        "start": "node index.js",
         "server": "nodemon index.js"
     },
     "repository": {
