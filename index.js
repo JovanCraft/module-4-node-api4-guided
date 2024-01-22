@@ -3,6 +3,10 @@ const server = express();
 
 server.use(express.json());
 
+console.log(process.argv)
+const foo = process.argv[2]
+console.log(foo)
+
 server.get('/hello', (req, res) => {
   res.json('hello, there');
 });
