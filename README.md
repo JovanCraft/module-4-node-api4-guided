@@ -6,5 +6,6 @@ In this project we will learn how to make an Express app deployable to Heroku.
 
 ## Project Setup
 
-- [x] clone the repository to your local.
-- [x] execute `npm i` to download dependencies.
+
+- [ ] clone the repository to your local.
+- [ ] execute `npm i` to download dependencies.
